@@ -17,3 +17,7 @@ cd buset
 
 
 python Cyber.py
+
+# SEDEKAH ><
+Buat ngopi:v
+https://saweria.co/RejekiNomplok
