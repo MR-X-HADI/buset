@@ -11,12 +11,11 @@
 -git clone https://github.com/MR-X-HADI/buset
 
 # install bahan
-ls
+-ls
 
-cd buset
+-cd buset
 
-
-python Cyber.py
+-python Cyber.py
 
 # SEDEKAH ><
 Buat ngopi:v
